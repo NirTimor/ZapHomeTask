@@ -1,0 +1,12 @@
+# הדגמה מקומית: הרץ עם
+#   python -m zap_onboarding --config config.demo.yaml --fixtures fixtures/sample_ac
+customer:
+  display_name: "דוגמה: מיזוג הקריות — טכנאי מזגנים"
+  segment: "שירותי מזגנים ומיזוג אוויר"
+  region: "קריות, קריית ביאליק, קריית מוצקין והסביבה"
+
+seed_urls: []
+
+crawl:
+  max_pages: 12
+  timeout_seconds: 15

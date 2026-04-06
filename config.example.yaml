@@ -1,0 +1,14 @@
+# העתק ל-config.yaml וערוך כתובות אמיתיות של הלקוח
+customer:
+  display_name: "טכנאי מזגנים – קריות"
+  segment: "עסק קטן / שירותי מזגנים"
+
+# רשימת נכסים לסריקה: אתר עצמאי (עד 5 עמודים) + מיניסייט בדפי זהב
+seed_urls:
+  - "https://example-customer-site.co.il/"
+  - "https://www.yellowpages.co.il/minisite-example"
+
+crawl:
+  max_pages: 12
+  timeout_seconds: 15
+  user_agent: "ZapOnboardingBot/1.0 (+research prototype)"
