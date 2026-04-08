@@ -64,8 +64,4 @@ zap_onboarding/   # סריקה, חילוץ, סינתזה, CRM, CLI
 fixtures/sample_ac/  # דמו: עמודי אתר + עמוד מיניסייט דמה
 config.demo.yaml
 config.example.yaml
-```
-
-## הגשה
-
-נא לשלוח את הרירפו הציבורי (או ZIP) + קובץ README זה עד **9.4.2026** לפי הנחיות המטלה.
+```.
